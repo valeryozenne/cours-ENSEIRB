@@ -36,12 +36,17 @@ On distinguera
 * Les vaisseaux
 * Les "structures" de conductions
 
+### Figure 1
+![figure1](Figures/oxygene.png)
 
-![figure1](Figures/anatomie_simple.gif)
-![figure2](Figures/anatomie.png)
+### Figure 2
+![figure2](Figures/anatomie_simple.gif)
+
+### Figure 3
+![figure3](Figures/anatomie.png)
 
 
-![figure3](Figures/oxygene.png)
+
 
 
 ## Un peu de rythmologie cardiaque  

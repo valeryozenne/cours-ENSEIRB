@@ -63,7 +63,34 @@ Automaticité cardiaque
 
 ![FV](https://www.matierevolution.fr/local/cache-vignettes/L293xH220/-168-97677.gif)
 
+## Imagerie du reseau de conduction
 
+### Premiers pas
+
+ Télécharger le fichier suivant:
+- lancer mrtrix ou 3Dslicer
+- charger l'image
+- jouer avec le contraste
+- ce déplacer dans l'espace
+- vue coupe et vue volume 
+- utiliser F3 (mrview) ou volume renderer (slicer)
+- utiliser l'outil transform
+
+
+### 
+
+- haut du coeur (base)
+- bas du coeur (apex)
+- coronaire (
+
+- ventricule gauche
+- ventricule droit
+- oreillette gauche
+- oreillette droite
+
+- valve tricuspid 
+- valve mitral 
+- valve aortic
 
 ## Reference 
 

@@ -4,24 +4,24 @@
 
 ### Visualisation des 4 cavitées par IRM (contraste bssfp)
 
-![lien](https://cdn.ymaws.com/scmr.org/resource/resmgr/cow_images/2017/RV_Infarct_CMR_4_CH_SSFP.gif)
+![lien](Figures/RV_Infarct_CMR_4_CH_SSFP.gif)
 
 [lien](https://cdn.ymaws.com/scmr.org/resource/resmgr/cow_images/2017/RV_Infarct_CMR_4_CH_SSFP.gif)
 
 ### Visualisation petit axe par IRM (contraste bssfp)
 
-![lien](https://cdn.ymaws.com/scmr.org/resource/resmgr/cow_images/2017/RV_Infarct_CMR_SA_SSFP_2.gif)
+![lien](Figures//RV_Infarct_CMR_SA_SSFP_2.gif)
 
 [lien](https://cdn.ymaws.com/scmr.org/resource/resmgr/cow_images/2017/RV_Infarct_CMR_SA_SSFP_2.gif)
 
 ### Visualisation des coronaires avec agent de contraste sous rayon X
 
-![lien](https://cdn.ymaws.com/scmr.org/resource/resmgr/cow_images/2017/RV_Infarct_RCx_Angiogram_Ini.gif)
+![lien](Figures/RV_Infarct_RCx_Angiogram_Ini.gif)
 
 [lien](https://cdn.ymaws.com/scmr.org/resource/resmgr/cow_images/2017/RV_Infarct_RCx_Angiogram_Ini.gif)
 
 ### Visualisation des valves sous échographie
-![lien](https://www.creatis.insa-lyon.fr/~bernard/images/ultrafast_with_moco.gif)
+![lien](Figures//ultrafast_with_moco.gif)
 [lien](https://www.creatis.insa-lyon.fr/~bernard/images/ultrafast_with_moco.gif)
 
 

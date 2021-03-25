@@ -45,7 +45,7 @@ On distinguera
 ### Figure 3
 ![figure3](Figures/anatomie.png)
 
-
+[ref](http://www.lycee-sainte-cecile.com/sites/resources/files/Biologie-Physiopathologie/diaporama%20LE%20CUR%20ET%20LA%20CIRCULATION%20SANGUINE.pdf)
 
 
 
@@ -67,4 +67,4 @@ Automaticité cardiaque
 
 ## Reference 
 
-* http://www.lycee-sainte-cecile.com/sites/resources/files/Biologie-Physiopathologie/diaporama%20LE%20CUR%20ET%20LA%20CIRCULATION%20SANGUINE.pdf
+[ref](http://www.lycee-sainte-cecile.com/sites/resources/files/Biologie-Physiopathologie/diaporama%20LE%20CUR%20ET%20LA%20CIRCULATION%20SANGUINE.pdf)

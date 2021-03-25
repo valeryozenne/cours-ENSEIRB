@@ -21,8 +21,8 @@
 [lien](https://cdn.ymaws.com/scmr.org/resource/resmgr/cow_images/2017/RV_Infarct_RCx_Angiogram_Ini.gif)
 
 ### Visualisation des valves sous échographie
-![lien](Figures//ultrafast_with_moco.gif)
-[lien](https://www.creatis.insa-lyon.fr/~bernard/images/ultrafast_with_moco.gif)
+![lien](Figures/RV_Infarct_Echo_PLAX.gif)
+[lien](https://scmr.org/resource/resmgr/cow_images/2017/RV_Infarct_Echo_PLAX.gif)
 
 
 ### Visualisation de l'activitation electrique
@@ -37,11 +37,11 @@ On distinguera
 * Les "structures" de conductions
 
 
-![figure1](figures/anatomie_simple.gif)
-![figure2](figures/anatomie.png)
+![figure1](Figures/anatomie_simple.gif)
+![figure2](Figures/anatomie.png)
 
 
-![figure3](figures/oxygene.png)
+![figure3](Figures/oxygene.png)
 
 
 ## Un peu de rythmologie cardiaque  

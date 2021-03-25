@@ -15,6 +15,10 @@ Visualisation des coronaires avec agent de contraste sous rayon X
 visualisation des valves sous echographie
 <img src="https://www.creatis.insa-lyon.fr/~bernard/images/ultrafast_with_moco.gif" width="400" height="400" />
 
+visualisation de l'activitation electrique
+<img src="https://media.lactualite.com/2018/04/heart-beat-gif-source-1.gif" width="400" height="400" />
+
+
 
 On distinguera
 

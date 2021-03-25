@@ -13,10 +13,11 @@ Visualisation des coronaires avec agent de contraste sous rayon X
 
 visualisation des valves sous echographie
 [lien](https://www.creatis.insa-lyon.fr/~bernard/images/ultrafast_with_moco.gif)
+![lien](https://www.creatis.insa-lyon.fr/~bernard/images/ultrafast_with_moco.gif)
 
 visualisation de l'activitation electrique
 [lien](https://media.lactualite.com/2018/04/heart-beat-gif-source-1.gif)
-
+![lien](https://media.lactualite.com/2018/04/heart-beat-gif-source-1.gif)
 
 On distinguera
 
@@ -35,7 +36,7 @@ Automaticité cardiaque
 
 * Capacité de transmission de l’onde de dépolarisation de proche en proche jusqu’aux cellules myocardiques auriculaires et ventriculaires
 
-[activation](https://media.lactualite.com/2018/04/heart-beat-gif-source-1.gif)
+![activation](https://media.lactualite.com/2018/04/heart-beat-gif-source-1.gif)
 
 ![TV](https://lactualite.com/assets/uploads/2018/04/tsvnodale.gif)
 

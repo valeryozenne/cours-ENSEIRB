@@ -4,7 +4,7 @@
 
 ### Visualisation des 4 cavitées par IRM (contraste bssfp)
 
-![lien](Figures/RV_Infarct_CMR_4_CH_SSFP.gif)
+![lien](Figures/RV_Infarct_CMR_4_CH_SSFP.gif | width=500)
 
 [lien](https://cdn.ymaws.com/scmr.org/resource/resmgr/cow_images/2017/RV_Infarct_CMR_4_CH_SSFP.gif)
 

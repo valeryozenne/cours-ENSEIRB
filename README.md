@@ -12,3 +12,13 @@ Visualisation petit axe par IRM (contraste bssfp)
 Visualisation des coronaires avec agent de contraste sous rayon X
 <img src="https://cdn.ymaws.com/scmr.org/resource/resmgr/cow_images/2017/RV_Infarct_RCx_Angiogram_Ini.gif" width="400" height="400" />
 
+visualisation des valves sous echographie
+<img src="https://www.creatis.insa-lyon.fr/~bernard/images/ultrafast_with_moco.gif" width="400" height="400" />
+
+
+On distinguera
+
+* Les cavitées 
+* Les valves
+* Les vaisseaux
+* Les "structures" de conductions

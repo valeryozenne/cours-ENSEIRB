@@ -2,13 +2,13 @@
 
 
 ### Figure 1
-![figure1](Figures/oxygene.png)
+![figure1](../Figures/oxygene.png)
 
 ### Figure 2
-![figure2](Figures/anatomie_simple.gif)
+![figure2](../Figures/anatomie_simple.gif)
 
 ### Figure 3
-![figure3](Figures/anatomie.png)
+![figure3](../Figures/anatomie.png)
 
 [ref](http://www.lycee-sainte-cecile.com/sites/resources/files/Biologie-Physiopathologie/diaporama%20LE%20CUR%20ET%20LA%20CIRCULATION%20SANGUINE.pdf) cours-ENSEIRB
 

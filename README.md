@@ -100,13 +100,16 @@ En se deplacer dans la direction (A-P) localiser
 
 * le feuillet septal (du coté du septum) de la valve mitrale (RX,AX,SX)
 
-
 En utilisant les images suivantes pour donner une position approximative du faisceau de His.
 
 Télécharger ensuite le fichier suivant à ce [lien]():
 
-C'est le volume acquis à la résolution de 150um coupé dans la zone d'intérêt.
+C'est le volume acquis à la résolution de 150um coupé dans la zone d'intérêt. 
 
+* Trouver le faisceau de His (R ,A ,S ) 
+* L'intersection avec la branche gauche et droite
+* Les extrémités de la branche gauche (R ,A ,S) 
+* Les extrémités de la branche droite (R ,A ,S) 
 
 
 

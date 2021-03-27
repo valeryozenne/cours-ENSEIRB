@@ -1,12 +1,14 @@
  # TP ENSEIRB Microstructure cardiaque par IRM
 
-Afin d'étudier la microstructure, deux acquisitions ont été réalisées sur un imageur Bruker 9.4T sur un échantillon post-mortem:
+Afin d'étudier la microstructure, deux acquisitions ont été réalisées sur un imageur Bruker 9.4T sur un échantillon:
 
 - une séquence d'écho de gradient: FLASH (Fast low angle shot magnetic resonance imaging).
 - une séquence d'echo de spin: DWI (Diffusion weighted imaging). 
 
 
 # Objectifs 1 : repérage anatomique
+
+## Intro
 
 Nous allons réaliser un bref cours d'anatomie en s'appuyant sur l'image d'écho de gradient réachantillonné à 600 um. L'objectif de cette première partie est de distinguer les différentes structures présentes de le coeur et de se familiariser avec deux logiciels de traitements d'image dédié à l'IRM. Pour visualiser les images IRM, vous allez utiliser de deux logiciels open-source: `3DSlicer` ou `mrview` (visualiseur issue de la librairie `MRtrix`).   
 
@@ -20,6 +22,7 @@ Nous allons identifier notamment:
 
 Un bref récapitulatif est accessible à ce [lien](Annexes/README.md) .
 
+## Pratique
 
  Télécharger le fichier suivant à ce [lien]():
  
@@ -74,6 +77,7 @@ Vous devez maintenant identifier et reporter les positions suivantes avec l'ongl
 
 # Objectifs 2 : A la recherche du faisceaux de His
 
+## Intro
 
 Vous devez maintenant identifier la zone contenant le faisceaux de His. Le faisceaux de His est une:
 
@@ -81,12 +85,12 @@ Vous devez maintenant identifier la zone contenant le faisceaux de His. Le faisc
 
 Le faisceau de His passe dans le septum interventriculaire et se divise en deux branches.
 
+## Pratique
+
 Utiliser l'onglet loupe puis `crop`
  - cliquer sur display ROI
  - reduire la ROI au niveau septum interentriculaire (partie du myocarde qui sépare VG et VD) 
  - cliquer sur apply
-
-
 
 En se deplacer dans la direction (A-P) localiser 
 

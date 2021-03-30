@@ -2,8 +2,8 @@
 
 Afin d'étudier la microstructure, deux acquisitions ont été réalisées sur un imageur Bruker 9.4T sur un échantillon:
 
-- une séquence d'écho de gradient: FLASH (Fast low angle shot magnetic resonance imaging).
-- une séquence d'echo de spin: DWI (Diffusion weighted imaging). 
+- une séquence d'écho de gradient: FLASH (Fast low angle shot magnetic resonance imaging). Les paramètres sont les suivants: TE = 9  ms;  TR = 30  ms;  matrix size = 731 × 665 × 532;  FOV = 110 × 100 × 80 mm. La résolution des voxels est 150 μm isotrope.
+- une séquence d'echo de spin: DWI (Diffusion weighted imaging). La résolution des voxels est 600 μm isotrope.  Six directions de gradient sont utilisées. Les paramètres sont les suivants: TE = 22  ms, TR = 500  ms,  FOV = 100 × 80 × 110  mm, matrice = 166 × 133 × 183. 
 
 
 # Objectifs 1 : repérage anatomique
@@ -58,7 +58,7 @@ Vous devez maintenant identifier et reporter les positions suivantes avec l'ongl
 
 * ventricule droit (VD)
 
-* septum interentriculaire (partie du myocarde qui sépare VG et VD) 
+* septum interventriculaire (partie du myocarde qui sépare VG et VD) 
 
 * oreillette (ou atrium) gauche (R-2,A-4.9, S30)
 
@@ -112,5 +112,24 @@ C'est le volume acquis à la résolution de 150um coupé dans la zone d'intérê
 * Les extrémités de la branche droite (R ,A ,S) 
 
 
+# Objectifs 3 : La microstructure cardiaque et imagerie du tenseur de diffusion
 
+# Intro 
+
+
+DWI -> DTI : 
+
+# Pratique
+
+- lancer MRtrix  
+- jouer avec le contraste
+- ce déplacer dans l'espace
+- vue coupe et vue volume 
+- utiliser F3 (mrview) ou volume renderer (slicer)
+- utiliser l'outil transform
+- utiliser l'onglet tools
+- overlay pour charger le fichier `v1.nii.gz`
+- fixel pour charger le fichier `v1.nii.gz`
+
+Décrire l'orientation des vecteurs dans le septum interventriculaire
 

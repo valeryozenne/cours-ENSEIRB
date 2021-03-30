@@ -79,6 +79,8 @@ Vous devez maintenant identifier et reporter les positions suivantes avec l'ongl
 
 ## Intro
 
+Un très bref récapitulatif est accessible à ce [lien](Annexes/README.md) .
+
 Vous devez maintenant identifier la zone contenant le faisceaux de His. Le faisceaux de His est une:
 
 "Voie de conduction de l’influx électrique reliant les oreillettes (plus précisément le nœud atrio-ventriculaire) aux ventricules. Situé dans la cloison des ventricules, ce faisceau est trop fin et trop court (quelques millimètres) pour être visible, même sur des examens d’imagerie moderne (échographie, scanner, IRM). Seule l’activité électrique vue sur l’électrocardiogramme ou enregistrée lors d’une exploration électrophysiologique permet de certifier son bon fonctionnement. Dans le cas contraire, on observera un blocage de la conduction des oreillettes aux ventricules (bloc atrio-ventriculaire)." 
@@ -91,45 +93,67 @@ Utiliser l'onglet loupe puis `crop`
  - cliquer sur display ROI
  - reduire la ROI au niveau septum interentriculaire (partie du myocarde qui sépare VG et VD) 
  - cliquer sur apply
+ 
+ 
+ Télécharger ensuite le fichier suivant à ce [lien]():
 
 En se deplacer dans la direction (A-P) localiser 
 
 * le septum interventriculaire partie supérieure (RX,AX,SX)
 
-* le feuille septal (du coté du septum) de la valve tricupside (RX,AX,SX)
+* le feuille septal (du coté du septum) de la valve tricupside (RX,AX,SX). Pour cela il faut localiser les jonctions entre la cavité de l'oreillette ... et la cavité du ventricule ....
 
-* le feuillet septal (du coté du septum) de la valve mitrale (RX,AX,SX)
+* le feuillet septal (du coté du septum) de la valve mitrale (RX,AX,SX). Pour cela il faut localiser les jonctions entre la cavité de l'oreillette ... et la cavité du ventricule ....
 
-En utilisant les images suivantes pour donner une position approximative du faisceau de His.
+En utilisant les images présentes en annexe dans la partie histologie [lien](Annexes/README.md) pour donner une position approximative du faisceau de His. Les coupes d'histologie sont réalisées dans le plan `vert` en bas à droite sur `3DSlicer`.
 
-Télécharger ensuite le fichier suivant à ce [lien]():
+C'est le volume acquis à la résolution de 150um coupé dans la zone d'intérêt. Quelques observations:
 
-C'est le volume acquis à la résolution de 150um coupé dans la zone d'intérêt. 
+- Avec cette résolution, on commence à visualiser l'agencement des fibres (ou des amas de fibres cardiaques). 
+- Les valves et le tissu cardiaque ont des contrastes différents avec des valeurs de proche de 2 (en blanc) et de 1 (en gris) respectivement.
+- Les cordages et piliers des valves sont particulièrement visibles dans la vue 3D `volume rendering`. 
 
-* Trouver le faisceau de His (R ,A ,S ) 
-* L'intersection avec la branche gauche et droite
-* Les extrémités de la branche gauche (R ,A ,S) 
-* Les extrémités de la branche droite (R ,A ,S) 
+* Trouver le faisceau de His (R , A , S ) 
+* L'intersection avec la branche gauche et droite (R , A , S )
+* Les extrémités de la branche gauche (R , A , S) 
+* Les extrémités de la branche droite (R , A , S) 
 
 
 # Objectifs 3 : La microstructure cardiaque et imagerie du tenseur de diffusion
 
 # Intro 
 
+ DWI -> DTI : de l'imagerie pondérée en diffusion aux tenseurs de diffusions. 
 
-DWI -> DTI : 
+- Milieu isotrope.
+- Milieu anisotrope.
+
+- Tenseur
+- Vecteurs
+- Tractographie 
 
 # Pratique
 
 - lancer MRtrix  
+- charger le fichier `intensity_zoom.nii.gz`
 - jouer avec le contraste
 - ce déplacer dans l'espace
 - vue coupe et vue volume 
 - utiliser F3 (mrview) ou volume renderer (slicer)
 - utiliser l'outil transform
+
+## RGB map et orientation des fibres
 - utiliser l'onglet tools
 - overlay pour charger le fichier `v1.nii.gz`
+
+## Vecteurs et orientation des fibres
+- utiliser l'onglet tools
 - fixel pour charger le fichier `v1.nii.gz`
 
-Décrire l'orientation des vecteurs dans le septum interventriculaire
+## Tractographie
+- utiliser l'onglet tools
+- tractography pour charger le fichier `streamlines.tck`
+
+
+Décrire l'orientation des vecteurs dans le septum interventriculaire.
 

@@ -24,9 +24,10 @@ Un bref récapitulatif est accessible à ce [lien](Annexes/README.md) .
 
 ## Pratique
 
- Télécharger le fichier suivant à ce [lien]():
+ Télécharger le fichier suivant à ce [lien](https://filesender.renater.fr/?s=download&token=1588e4bd-2d63-4d3c-b6ad-6107b0b7998c):
  
-- lancer 3Dslicer  
+- installer `3DSlicer` via ce [lien](https://download.slicer.org/) 
+- lancer `3DSlicer`  
 - charger l'image avec l'`icone data`, choose file to add `Intensity.nii.gz`
 - cliquer sur la `icone croix jaune`
 - appuyer sur la touche shift et deplacer le curseur sur l'image.
@@ -36,16 +37,6 @@ Un bref récapitulatif est accessible à ce [lien](Annexes/README.md) .
    - taper `volume rendering` , cliquer dessus et cliquer sur le petit `oeil` pour activer le rendu 
 	- dans la vue 3D clic droit `rotation`
 	- dans la vue 3D clic guache `zoom`
-
-
-
-- lancer MRtrix  
-- jouer avec le contraste
-- ce déplacer dans l'espace
-- vue coupe et vue volume 
-- utiliser F3 (mrview) ou volume renderer (slicer)
-- utiliser l'outil transform
-
 
 
 Vous devez maintenant identifier et reporter les positions suivantes avec l'onglet `fiducial`:

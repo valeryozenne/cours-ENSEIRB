@@ -24,7 +24,7 @@ Un bref récapitulatif est accessible à ce [lien](Annexes/README.md) .
 
 ## Pratique
 
- Télécharger le fichier suivant à ce [lien](https://filesender.renater.fr/?s=download&token=1588e4bd-2d63-4d3c-b6ad-6107b0b7998c):
+ Télécharger le fichier suivant à ce [lien](https://filesender.renater.fr/?s=download&token=85c51a13-900b-49aa-adf7-bdcb4c372feb):
  
 - installer `3DSlicer` via ce [lien](https://download.slicer.org/) 
 - lancer `3DSlicer`  
@@ -86,7 +86,7 @@ Utiliser l'onglet loupe puis `crop`
  - cliquer sur apply
  
  
- Télécharger ensuite le fichier suivant à ce [lien]():
+ Télécharger ensuite le fichier suivant à ce [lien](https://filesender.renater.fr/?s=download&token=85c51a13-900b-49aa-adf7-bdcb4c372feb):
 
 En se deplacer dans la direction (A-P) localiser 
 
@@ -135,15 +135,15 @@ C'est le volume acquis à la résolution de 150um coupé dans la zone d'intérê
 
 ## RGB map et orientation des fibres
 - utiliser l'onglet tools
-- overlay pour charger le fichier `v1.nii.gz`
+- overlay pour charger le fichier `v1_2_moved_reoriented.nii.gz`
 
 ## Vecteurs et orientation des fibres
 - utiliser l'onglet tools
-- fixel pour charger le fichier `v1.nii.gz`
+- fixel pour charger le fichier `v1_2_moved_reoriented.nii.gz`
 
 ## Tractographie
 - utiliser l'onglet tools
-- tractography pour charger le fichier `streamlines.tck`
+- tractography pour charger le fichier `stream_2_FACT.tck`
 
 
 Décrire l'orientation des vecteurs dans le septum interventriculaire.

@@ -148,3 +148,15 @@ C'est le volume acquis à la résolution de 150um coupé dans la zone d'intérê
 
 Décrire l'orientation des vecteurs dans le septum interventriculaire.
 
+
+
+![figure1](Figures/screenshot0000.png)
+
+![figure2](Figures/screenshot0003.png)
+
+![figure3](Figures/screenshot0004.png)
+
+![figure4](Figures/screenshot0005.png)
+
+![figure5](Figures/screenshot0001.png)
+
